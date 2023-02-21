@@ -4,10 +4,10 @@
 
 ## 1.1 참가인원
 - [우리행복하게해조]
-- 강민성, @hkmast
-- 김태혁, @kimtaehyuk1
-- 박소훈, 
-- 이지원
+- 강민성 hkmast
+- 김태혁 kimtaehyuk1
+- 박소훈 [hoonaianooh]: https://github.com/hoonaianooh 
+- 이지원 [Wlfjd]: https://github.com/Wlfjd
 
 
 # 2. 데이터 준비 + EDA 분석
